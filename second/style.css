@@ -1,0 +1,39 @@
+html {
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.main-background {
+    display: flex;
+    flex-direction: inherit;
+}
+
+.left {
+    height: 100vh;
+    width: 33.33%;
+    background-color: #4A90E2
+}
+
+.middle {
+    height: 100vh;
+    width: 33.33%;
+    background-color: #50E3C2
+}
+
+.right {
+    height: 100vh;
+    width: 33.33%;
+    background-color: #B8E986
+}
+
+.img-placeholder {
+    height: 20vh;
+    width: 33.33%;
+    background-color: #D0021B;
+    color: #FFF;
+    text-align: center;
+    padding-top: 9vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

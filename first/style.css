@@ -1,0 +1,27 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+    background-color: #333;
+}
+
+.main-section {
+    height: calc(100vh - 150px);
+    width: 65%;
+    margin: auto;
+    background-color: #EEE;
+}
+
+footer {
+    height: 50px;
+    width: 65%;
+    margin: auto;
+    background-color: #000;
+}
